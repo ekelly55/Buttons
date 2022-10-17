@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: auto;
+    margin: 0
+}
+
+button {
+    height: 30px;
+    width: 60px;
+    background-color: rgb(204 238 221);
+    border-color:rgb(255 255 255);
+}
